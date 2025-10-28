@@ -7,7 +7,7 @@ package org.example;
  * Date: _____________________
  *
  * This class implements bubble sort and selection sort algorithms.
- * Complete the implementation and analyze the time and space complexity.
+ * Complete the implementation and analyze the time complexity.
  */
 public class SortingAlgorithms {
 
